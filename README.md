@@ -1,8 +1,10 @@
 # 💫 About Me:
 
-Hi 👋, I'm Francisco Zelada
+Hola 👋, Soy Francisco Zelada.
 
-👨‍💻 All of my projects are available at https://fzelada.site/
++7 Años de experiencia en desarrollo Web 🌐. Laboralmente utilicé Java / HTML/CSS y BD Oracle. En los últimos años he aprendido sobre Web Front-End / Backend basadas en Javascript 👨‍💻, y ahora estoy buscando la oportunidad de aportar en nuevos rumbos todo lo aprendido 🚀
+
+🙋‍♂️ Más sobre mi en https://fzelada.site/
 
 # 💻 Tech Stack:
 
@@ -28,7 +30,7 @@ Hi 👋, I'm Francisco Zelada
 > [Repo](https://github.com/panchozelada/adpwebsite)  
 > [Live demo](https://adpwebsite-7eii.vercel.app/)
 
--   Teslo Shop
+## Teslo Shop
 
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229222/teslo_jbftas.png">
@@ -38,7 +40,7 @@ Hi 👋, I'm Francisco Zelada
 > [Repo](https://github.com/panchozelada/next-teslo-shop/tree/main)  
 > [Live demo](https://next-teslo-shop-eight.vercel.app/)
 
--   MERN Calendar
+## MERN Calendar
 
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229119/mern_hs0jzi.png">
@@ -49,7 +51,7 @@ Hi 👋, I'm Francisco Zelada
 >
 > [Live demo](https://mern-calendar-blond.vercel.app/) | Credenciales: francisco@gmail.com | 123456
 
--   Pokemon SSR
+## Pokemon SSR
 
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229352/poke_x6c2vm.png">
@@ -59,7 +61,7 @@ Hi 👋, I'm Francisco Zelada
 > [Repo](https://github.com/panchozelada/next-vercel-pokemon-static/tree/main)  
 > [Live demo](https://next-vercel-pokemon-static.vercel.app/)
 
--   Firebase Chat
+## Firebase Chat
 
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228926/chat_jwdaog.png">
