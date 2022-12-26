@@ -42,24 +42,32 @@ Hi 👋, I'm Francisco Zelada
 
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229119/mern_hs0jzi.png">
+>
 > Aplicación de calendario en la cual se pueden registrar eventos para un grupo de trabajo. Para su desarrollo se utilizó React, Redux, Javascript y JWT por el lado del front end, y para el backend Express.js + MongoDB. Esta App fue construida con las indicaciones del curso “React: De cero a experto” del profesor Fernando Herrera.
 >
-> [Repo](https://github.com/panchozelada/mern-calendar)  
+> [Repo](https://github.com/panchozelada/mern-calendar)
+>
 > [Live demo](https://mern-calendar-blond.vercel.app/) | Credenciales: francisco@gmail.com | 123456
 
 -   Pokemon SSR
 
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229352/poke_x6c2vm.png">
+>
 > Aplicación realizada con los servicios de “PokeApi”, aplicando principios de renderizado de lado de servidor con “Static Paths” y “Static Props”. Se desarrolló con Next.Js, Typescript y la interfaz gráfica con Next UI
-> [Repo](https://github.com/panchozelada/next-vercel-pokemon-static/tree/main) > [Live demo](https://next-vercel-pokemon-static.vercel.app/)
+>
+> [Repo](https://github.com/panchozelada/next-vercel-pokemon-static/tree/main)  
+> [Live demo](https://next-vercel-pokemon-static.vercel.app/)
 
 -   Firebase Chat
 
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228926/chat_jwdaog.png">
+>
 > Pequeña aplicación de sala de chat desarrollado aplicando autenticación con Google. Se utilizan las librerías de firebase y react-firebase-hooks. Este ejercicio es del canal de youtube de fireship en el cual originalmente se hizo con firebase 7, por mi parte lo actualicé a firebase 9 y reemplacé javascript por typescript.
-> [Repo](https://github.com/panchozelada/react-firebase-v9-chat) > [Live demo](https://react-firebase-v9-chat.vercel.app/)
+>
+> [Repo](https://github.com/panchozelada/react-firebase-v9-chat)  
+> [Live demo](https://react-firebase-v9-chat.vercel.app/)
 
 </div>
 
