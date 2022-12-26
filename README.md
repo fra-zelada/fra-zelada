@@ -22,8 +22,9 @@ Hola 👋, Soy Francisco Zelada.
 
 ## Votaciones web
 
+> <p><a href="https://adpwebsite-7eii.vercel.app/" title="Redirect to Votaciones web">
 > <img 
-> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228669/adp_zpjbym.png">
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228669/adp_zpjbym.png"></a></p>
 >
 > Versión inicial de web para contenido de Lucha Libre, el objetivo del sitio es crear encuestas para predicciones de combates.
 >
@@ -32,8 +33,9 @@ Hola 👋, Soy Francisco Zelada.
 
 ## Teslo Shop
 
+> <p><a href="https://next-teslo-shop-eight.vercel.app/" title="Redirect to Teslo Shop">
 > <img 
-> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229222/teslo_jbftas.png">
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229222/teslo_jbftas.png"></a></p>
 >
 > Sitio WEB inspirado en tienda de Tesla. Alguna de las características del sitio son autenticación con OAuth, integración a módulo de pago PayPal y renderizado por lado de servidor. El sitio fue desarrollado con Next.Js, Typescript, Material UI y MongoDB. Esta web la desarrollé con las indicaciones del curso “Next.js: El framework de React para producción” del profesor Fernando Herrera.
 >
@@ -42,8 +44,9 @@ Hola 👋, Soy Francisco Zelada.
 
 ## MERN Calendar
 
+> <p><a href="https://mern-calendar-blond.vercel.app/" title="Redirect to MERN Calendar">
 > <img 
-> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229119/mern_hs0jzi.png">
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229119/mern_hs0jzi.png"></a></p>
 >
 > Aplicación de calendario en la cual se pueden registrar eventos para un grupo de trabajo. Para su desarrollo se utilizó React, Redux, Javascript y JWT por el lado del front end, y para el backend Express.js + MongoDB. Esta App fue construida con las indicaciones del curso “React: De cero a experto” del profesor Fernando Herrera.
 >
@@ -53,8 +56,9 @@ Hola 👋, Soy Francisco Zelada.
 
 ## Pokemon SSR
 
+> <p><a href="https://next-vercel-pokemon-static.vercel.app/" title="Redirect to Pokemon SSR">
 > <img 
-> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229352/poke_x6c2vm.png">
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229352/poke_x6c2vm.png"></a></p>
 >
 > Aplicación realizada con los servicios de “PokeApi”, aplicando principios de renderizado de lado de servidor con “Static Paths” y “Static Props”. Se desarrolló con Next.Js, Typescript y la interfaz gráfica con Next UI
 >
@@ -63,8 +67,9 @@ Hola 👋, Soy Francisco Zelada.
 
 ## Firebase Chat
 
+> <p><a href="https://react-firebase-v9-chat.vercel.app/" title="Redirect to Firebase Chat">
 > <img 
-> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228926/chat_jwdaog.png">
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228926/chat_jwdaog.png"></a></p>
 >
 > Pequeña aplicación de sala de chat desarrollado aplicando autenticación con Google. Se utilizan las librerías de firebase y react-firebase-hooks. Este ejercicio es del canal de youtube de fireship en el cual originalmente se hizo con firebase 7, por mi parte lo actualicé a firebase 9 y reemplacé javascript por typescript.
 >
@@ -78,3 +83,4 @@ Hola 👋, Soy Francisco Zelada.
 [![](https://visitcount.itsvg.in/api?id=panchozelada&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+"# panchozelada" 
