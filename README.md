@@ -12,7 +12,7 @@ Hola 👋, Soy Francisco Zelada.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=panchozelada&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fra-zelada&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -28,7 +28,7 @@ Hola 👋, Soy Francisco Zelada.
 >
 > Sitio web utilizando React / Next.js & Typescript. Se han empleado las librerías de Tailwind CSS para los estilos, NextAuth para la autenticación, Prisma para la creación de esquemas de BD y Zustand para la gestión de estados.
 >
-> [Repo](https://github.com/panchozelada/netflix_clone)  
+> [Repo](https://github.com/fra-zelada/netflix_clone)  
 > [Live demo](https://netflix-clone-eight-tawny.vercel.app/)
 
 ## Clon Chat GPT
@@ -39,7 +39,7 @@ Hola 👋, Soy Francisco Zelada.
 >
 > Prueba de concepto utilizando la API de Chat GPT, se utilizó Tailwind CSS para replicar los estilos. Solo se realizó la funcionalidad de chat conversacional.
 >
-> [Repo](https://github.com/panchozelada/clon-chat-gpt)  
+> [Repo](https://github.com/fra-zelada/clon-chat-gpt)  
 > [Live demo](https://clon-chat-gpt-nine.vercel.app/)
 
 ## Votaciones web
@@ -50,7 +50,7 @@ Hola 👋, Soy Francisco Zelada.
 >
 > Versión inicial de web para contenido de Lucha Libre, el objetivo del sitio es crear encuestas para predicciones de combates.
 >
-> [Repo](https://github.com/panchozelada/adpwebsite)  
+> [Repo](https://github.com/fra-zelada/adpwebsite)  
 > [Live demo](https://adpwebsite-7eii.vercel.app/)
 
 ## Firebase Chat
@@ -61,7 +61,7 @@ Hola 👋, Soy Francisco Zelada.
 >
 > Pequeña aplicación de sala de chat desarrollado aplicando autenticación con Google. Se utilizan las librerías de firebase y react-firebase-hooks. Este ejercicio es del canal de youtube de fireship en el cual originalmente se hizo con firebase 7, por mi parte lo actualicé a firebase 9 y reemplacé javascript por typescript.
 >
-> [Repo](https://github.com/panchozelada/react-firebase-v9-chat)  
+> [Repo](https://github.com/fra-zelada/react-firebase-v9-chat)  
 > [Live demo](https://react-firebase-v9-chat.vercel.app/)
 
 ## Teslo Shop
@@ -72,7 +72,7 @@ Hola 👋, Soy Francisco Zelada.
 >
 > Sitio WEB inspirado en tienda de Tesla. Alguna de las características del sitio son autenticación con OAuth, integración a módulo de pago PayPal y renderizado por lado de servidor. El sitio fue desarrollado con Next.Js, Typescript, Material UI y MongoDB. Esta web la desarrollé con las indicaciones del curso “Next.js: El framework de React para producción” del profesor Fernando Herrera.
 >
-> [Repo](https://github.com/panchozelada/next-teslo-shop/tree/main)  
+> [Repo](https://github.com/fra-zelada/next-teslo-shop/tree/main)  
 > [Live demo](https://next-teslo-shop-eight.vercel.app/)
 
 ## Pokemon SSR
@@ -83,7 +83,7 @@ Hola 👋, Soy Francisco Zelada.
 >
 > Aplicación realizada con los servicios de “PokeApi”, aplicando principios de renderizado de lado de servidor con “Static Paths” y “Static Props”. Se desarrolló con Next.Js, Typescript y la interfaz gráfica con Next UI
 >
-> [Repo](https://github.com/panchozelada/next-vercel-pokemon-static/tree/main)  
+> [Repo](https://github.com/fra-zelada/next-vercel-pokemon-static/tree/main)  
 > [Live demo](https://next-vercel-pokemon-static.vercel.app/)
 
 ## MERN Calendar
@@ -94,7 +94,7 @@ Hola 👋, Soy Francisco Zelada.
 >
 > Aplicación de calendario en la cual se pueden registrar eventos para un grupo de trabajo. Para su desarrollo se utilizó React, Redux, Javascript y JWT por el lado del front end, y para el backend Express.js + MongoDB. Esta App fue construida con las indicaciones del curso “React: De cero a experto” del profesor Fernando Herrera.
 >
-> [Repo](https://github.com/panchozelada/mern-calendar)
+> [Repo](https://github.com/fra-zelada/mern-calendar)
 >
 > [Live demo](https://mern-calendar-blond.vercel.app/) | Credenciales: francisco@gmail.com | 123456
 
@@ -105,7 +105,7 @@ Hola 👋, Soy Francisco Zelada.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=panchozelada&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=fra-zelada&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-"# panchozelada" 
+"# fra-zelada" 
