@@ -20,6 +20,28 @@ Hola 👋, Soy Francisco Zelada.
 
 <div  style="text-align:center">
 
+## Clon Netflix
+
+> <p><a href="https://netflix-clone-eight-tawny.vercel.app/" title="Redirect to Clon Netflix">
+> <img 
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1679001456/github/Dise%C3%B1o_sin_t%C3%ADtulo_10_ll9xrh.png"></a></p>
+>
+> Prueba de concepto utilizando la API de Chat GPT, se utilizó Tailwind CSS para replicar los estilos. Solo se realizó la funcionalidad de chat conversacional.
+>
+> [Repo](https://github.com/panchozelada/netflix_clone)  
+> [Live demo](https://netflix-clone-eight-tawny.vercel.app/)
+
+## Clon Chat GPT
+
+> <p><a href="https://clon-chat-gpt-nine.vercel.app/" title="Clon Chat GPT">
+> <img 
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1677861433/clon_chat_vjwthq.png"></a></p>
+>
+> Sitio web utilizando React / Next.js & Typescript. Se han empleado las librerías de Tailwind CSS para los estilos, NextAuth para la autenticación, Prisma para la creación de esquemas de BD y Zustand para la gestión de estados.
+>
+> [Repo](https://github.com/panchozelada/clon-chat-gpt)  
+> [Live demo](https://clon-chat-gpt-nine.vercel.app/)
+
 ## Votaciones web
 
 > <p><a href="https://adpwebsite-7eii.vercel.app/" title="Redirect to Votaciones web">
