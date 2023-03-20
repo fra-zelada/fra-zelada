@@ -53,6 +53,17 @@ Hola 👋, Soy Francisco Zelada.
 > [Repo](https://github.com/panchozelada/adpwebsite)  
 > [Live demo](https://adpwebsite-7eii.vercel.app/)
 
+## Firebase Chat
+
+> <p><a href="https://react-firebase-v9-chat.vercel.app/" title="Redirect to Firebase Chat">
+> <img 
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228926/chat_jwdaog.png"></a></p>
+>
+> Pequeña aplicación de sala de chat desarrollado aplicando autenticación con Google. Se utilizan las librerías de firebase y react-firebase-hooks. Este ejercicio es del canal de youtube de fireship en el cual originalmente se hizo con firebase 7, por mi parte lo actualicé a firebase 9 y reemplacé javascript por typescript.
+>
+> [Repo](https://github.com/panchozelada/react-firebase-v9-chat)  
+> [Live demo](https://react-firebase-v9-chat.vercel.app/)
+
 ## Teslo Shop
 
 > <p><a href="https://next-teslo-shop-eight.vercel.app/" title="Redirect to Teslo Shop">
@@ -63,6 +74,17 @@ Hola 👋, Soy Francisco Zelada.
 >
 > [Repo](https://github.com/panchozelada/next-teslo-shop/tree/main)  
 > [Live demo](https://next-teslo-shop-eight.vercel.app/)
+
+## Pokemon SSR
+
+> <p><a href="https://next-vercel-pokemon-static.vercel.app/" title="Redirect to Pokemon SSR">
+> <img 
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229352/poke_x6c2vm.png"></a></p>
+>
+> Aplicación realizada con los servicios de “PokeApi”, aplicando principios de renderizado de lado de servidor con “Static Paths” y “Static Props”. Se desarrolló con Next.Js, Typescript y la interfaz gráfica con Next UI
+>
+> [Repo](https://github.com/panchozelada/next-vercel-pokemon-static/tree/main)  
+> [Live demo](https://next-vercel-pokemon-static.vercel.app/)
 
 ## MERN Calendar
 
@@ -76,27 +98,8 @@ Hola 👋, Soy Francisco Zelada.
 >
 > [Live demo](https://mern-calendar-blond.vercel.app/) | Credenciales: francisco@gmail.com | 123456
 
-## Pokemon SSR
 
-> <p><a href="https://next-vercel-pokemon-static.vercel.app/" title="Redirect to Pokemon SSR">
-> <img 
-> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229352/poke_x6c2vm.png"></a></p>
->
-> Aplicación realizada con los servicios de “PokeApi”, aplicando principios de renderizado de lado de servidor con “Static Paths” y “Static Props”. Se desarrolló con Next.Js, Typescript y la interfaz gráfica con Next UI
->
-> [Repo](https://github.com/panchozelada/next-vercel-pokemon-static/tree/main)  
-> [Live demo](https://next-vercel-pokemon-static.vercel.app/)
 
-## Firebase Chat
-
-> <p><a href="https://react-firebase-v9-chat.vercel.app/" title="Redirect to Firebase Chat">
-> <img 
-> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228926/chat_jwdaog.png"></a></p>
->
-> Pequeña aplicación de sala de chat desarrollado aplicando autenticación con Google. Se utilizan las librerías de firebase y react-firebase-hooks. Este ejercicio es del canal de youtube de fireship en el cual originalmente se hizo con firebase 7, por mi parte lo actualicé a firebase 9 y reemplacé javascript por typescript.
->
-> [Repo](https://github.com/panchozelada/react-firebase-v9-chat)  
-> [Live demo](https://react-firebase-v9-chat.vercel.app/)
 
 </div>
 
