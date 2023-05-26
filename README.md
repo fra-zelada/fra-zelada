@@ -20,6 +20,17 @@ Hola 👋, Soy Francisco Zelada.
 
 <div  style="text-align:center">
 
+## Movie Theater
+
+> <p><a href="https://movie-theater-delta.vercel.app/" title="Redirect to Movie Theater">
+> <img 
+> src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1685126423/movie_uyzu4h.png"></a></p>
+>
+> Aplicación que simula la compra de un ticket de Cine. Se utilizó React / Next.js & Typescript, paginación y caché con SWR, y manejo de estado con Context Api + Local Storage.
+>
+> [Repo](https://github.com/fra-zelada/movie_theater)  
+> [Live demo](https://movie-theater-delta.vercel.app/)
+
 ## Clon Netflix
 
 > <p><a href="https://netflix-clone-eight-tawny.vercel.app/" title="Redirect to Clon Netflix">
