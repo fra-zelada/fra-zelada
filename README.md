@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-Hola 👋, Soy Francisco Zelada.
+Hi 👋, My name is Francisco Zelada.
 
-+7 Años de experiencia en desarrollo Web 🌐. Laboralmente utilicé Java / HTML/CSS y BD Oracle. En los últimos años he aprendido sobre Web Front-End / Backend basadas en Javascript 👨‍💻, y ahora estoy buscando la oportunidad de aportar en nuevos rumbos todo lo aprendido 🚀
++7 years of experience in Web development 🌐. Professionally, I have worked with Java, HTML/CSS, and Oracle databases. In recent years, I have expanded my skills to include Web Front-End/Backend development using JavaScript 👨‍💻, and now I am seeking an opportunity to contribute my knowledge in new directions 🚀.
 
 🙋‍♂️ Más sobre mi en https://fzelada.site/
 
@@ -26,7 +26,7 @@ Hola 👋, Soy Francisco Zelada.
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1686605452/tinbook_zmbh4x.png"></a></p>
 >
-> Aplicación inspirada en la funcionalidad de Tinder, para deslizar y encontrar el amor en un libro. Desarrollo con Next.js 13, Tailwind CSS, Redux-Toolkit, Redux-Persist & SplideJs
+> An application inspired by the functionality of Tinder, to swipe and find love in a book. Developed using Next.js 13, Tailwind CSS, Redux-Toolkit, Redux-Persist & SplideJs.
 >
 > [Repo](https://github.com/fra-zelada/tin-book)  
 > [Live demo](https://tin-book.vercel.app/)
@@ -37,7 +37,7 @@ Hola 👋, Soy Francisco Zelada.
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1685126423/movie_uyzu4h.png"></a></p>
 >
-> Aplicación que simula la compra de un ticket de Cine. Se utilizó React / Next.js & Typescript, paginación y caché con SWR, y manejo de estado con Context Api + Local Storage.
+> An application that simulates the purchase of a movie ticket. Developed using React/Next.js & TypeScript, with pagination and caching using SWR, and state management with Context API + Local Storage.
 >
 > [Repo](https://github.com/fra-zelada/movie_theater)  
 > [Live demo](https://movie-theater-delta.vercel.app/)
@@ -48,7 +48,7 @@ Hola 👋, Soy Francisco Zelada.
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1679001456/github/Dise%C3%B1o_sin_t%C3%ADtulo_10_ll9xrh.png"></a></p>
 >
-> Sitio web utilizando React / Next.js & Typescript. Se han empleado las librerías de Tailwind CSS para los estilos, NextAuth para la autenticación, Prisma para la creación de esquemas de BD y Zustand para la gestión de estados.
+> A website built using React/Next.js & TypeScript. It utilizes Tailwind CSS for styling, NextAuth for authentication, Prisma for database schema creation, and Zustand for state management.
 >
 > [Repo](https://github.com/fra-zelada/netflix_clone)  
 > [Live demo](https://netflix-clone-eight-tawny.vercel.app/)
@@ -59,7 +59,7 @@ Hola 👋, Soy Francisco Zelada.
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1677861433/clon_chat_vjwthq.png"></a></p>
 >
-> Prueba de concepto utilizando la API de Chat GPT, se utilizó Tailwind CSS para replicar los estilos. Solo se realizó la funcionalidad de chat conversacional.
+> A proof of concept using the Chat GPT API. Tailwind CSS was used to replicate the styles. Only the conversational chat functionality was implemented.
 >
 > [Repo](https://github.com/fra-zelada/clon-chat-gpt)  
 > [Live demo](https://clon-chat-gpt-nine.vercel.app/)
@@ -70,7 +70,7 @@ Hola 👋, Soy Francisco Zelada.
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228669/adp_zpjbym.png"></a></p>
 >
-> Versión inicial de web para contenido de Lucha Libre, el objetivo del sitio es crear encuestas para predicciones de combates.
+> Initial version of a website for professional wrestling content. The goal of the site is to create polls for match predictions.
 >
 > [Repo](https://github.com/fra-zelada/adpwebsite)  
 > [Live demo](https://adpwebsite-7eii.vercel.app/)
@@ -81,7 +81,7 @@ Hola 👋, Soy Francisco Zelada.
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228926/chat_jwdaog.png"></a></p>
 >
-> Pequeña aplicación de sala de chat desarrollado aplicando autenticación con Google. Se utilizan las librerías de firebase y react-firebase-hooks. Este ejercicio es del canal de youtube de fireship en el cual originalmente se hizo con firebase 7, por mi parte lo actualicé a firebase 9 y reemplacé javascript por typescript.
+> A small chat room application developed with Google authentication. It utilizes the Firebase and react-firebase-hooks libraries. This exercise is based on a YouTube tutorial by Fireship, originally using Firebase 7. I updated it to Firebase 9 and replaced JavaScript with TypeScript.
 >
 > [Repo](https://github.com/fra-zelada/react-firebase-v9-chat)  
 > [Live demo](https://react-firebase-v9-chat.vercel.app/)
@@ -92,7 +92,7 @@ Hola 👋, Soy Francisco Zelada.
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229222/teslo_jbftas.png"></a></p>
 >
-> Sitio WEB inspirado en tienda de Tesla. Alguna de las características del sitio son autenticación con OAuth, integración a módulo de pago PayPal y renderizado por lado de servidor. El sitio fue desarrollado con Next.Js, Typescript, Material UI y MongoDB. Esta web la desarrollé con las indicaciones del curso “Next.js: El framework de React para producción” del profesor Fernando Herrera.
+> A website inspired by a Tesla store, featuring OAuth authentication, integration with the PayPal payment module, and server-side rendering. The site was developed using Next.js, TypeScript, Material UI, and MongoDB. I developed this website following the instructions from the "Next.js: El framework de React para producción" course by Professor Fernando Herrera.
 >
 > [Repo](https://github.com/fra-zelada/next-teslo-shop/tree/main)  
 > [Live demo](https://next-teslo-shop-eight.vercel.app/)
@@ -103,7 +103,7 @@ Hola 👋, Soy Francisco Zelada.
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229352/poke_x6c2vm.png"></a></p>
 >
-> Aplicación realizada con los servicios de “PokeApi”, aplicando principios de renderizado de lado de servidor con “Static Paths” y “Static Props”. Se desarrolló con Next.Js, Typescript y la interfaz gráfica con Next UI
+> An application developed using the services of "PokeApi" and applying server-side rendering principles with "Static Paths" and "Static Props". It was built using Next.js, TypeScript, and the graphical interface with Next UI.
 >
 > [Repo](https://github.com/fra-zelada/next-vercel-pokemon-static/tree/main)  
 > [Live demo](https://next-vercel-pokemon-static.vercel.app/)
@@ -114,7 +114,7 @@ Hola 👋, Soy Francisco Zelada.
 > <img 
 > src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671229119/mern_hs0jzi.png"></a></p>
 >
-> Aplicación de calendario en la cual se pueden registrar eventos para un grupo de trabajo. Para su desarrollo se utilizó React, Redux, Javascript y JWT por el lado del front end, y para el backend Express.js + MongoDB. Esta App fue construida con las indicaciones del curso “React: De cero a experto” del profesor Fernando Herrera.
+> A calendar application where users can register events for a workgroup. It was developed using React, Redux, JavaScript, and JWT on the front end, and Express.js + MongoDB on the backend. This app was built following the instructions from the "React: De cero a experto" course by Professor Fernando Herrera.
 >
 > [Repo](https://github.com/fra-zelada/mern-calendar)
 >
