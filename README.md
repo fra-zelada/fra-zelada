@@ -4,7 +4,7 @@ Hi 👋, My name is Francisco Zelada.
 
 +7 years of experience in Web development 🌐. Professionally, I have worked with Java, HTML/CSS, and Oracle databases. In recent years, I have expanded my skills to include Web Front-End/Backend development using JavaScript 👨‍💻, and now I am seeking an opportunity to contribute my knowledge in new directions 🚀.
 
-🙋‍♂️ Más sobre mi en https://fzelada.site/
+🙋‍♂️ My website https://fzelada.site/
 
 # 💻 Tech Stack:
 
