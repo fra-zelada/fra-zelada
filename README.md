@@ -28,7 +28,7 @@ Hi 👋, My name is Francisco Zelada.
 >
 > Web application for generating images with artificial intelligence. Developed using React + **Next.js 14** & **Typescript**, implementing **Server Actions** and cache handling techniques. Utilizes Vercel KV's Redis database, Zustand for state management, styled with **Tailwind CSS**, and incorporates components from **Shadcn/ui**. Image generation is done through the **Replicate API**.
 >
-> [Repo](https://github.com/fra-zelada/wrestlingGram)
+> [Repo](https://github.com/fra-zelada/text2img)
 > [Live demo](https://text2img-replicate.vercel.app/)
 
 ## Wrestling-Gram
