@@ -40,7 +40,7 @@ Hi 👋, My name is Francisco Zelada.
 > A a web application designed with **React + Typescript** and **Python + Django Rest Framework** for sharing images and comments, drawing inspiration from Instagram's functionality. The application allows users to create accounts, upload images, and comment.
 >
 > [Repo](https://github.com/fra-zelada/wrestlingGram)
-> [Live demo](https://tin-book.vercel.app/)](https://wrestling-gram.vercel.app/)
+> [Live demo](https://wrestling-gram.vercel.app/)
 
 ## Tin-Book
 
